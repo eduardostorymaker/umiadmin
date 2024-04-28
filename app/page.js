@@ -1,3 +1,5 @@
+import TemplateFirstPage from "../components/TemplateFirstPage";
+
 export default function Page() {
-    return <h1 className="bg-red-500">Hello, Pelopio.js!</h1>
+    return <TemplateFirstPage />
   }
